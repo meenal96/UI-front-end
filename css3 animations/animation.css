@@ -162,7 +162,7 @@ h1 {
     left: 100px;
 }
 .GOT_banner:hover #id5 {
-      transform: translate(275px, -20px) scale(1.1,1.1);
+      transform: translate(275px, -40px) scale(1.1,1.1);
     opacity: 1;
     transition-delay: 7s;
 }
@@ -180,7 +180,7 @@ h1 {
     right: 100px;
 }
 .GOT_banner:hover #id7 {
-      transform: translate(-270px, -25px) scale(1.1,1.1);
+      transform: translate(-270px, -45px) scale(1.1,1.1);
     opacity: 1;
     transition-delay: 7s;
 }
